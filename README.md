@@ -8,7 +8,7 @@
 
 <h3>### A budding programmer trying to step into open-source world and solve world problems </h3><br>
 
-- 👨‍🏭 I’m currently pursuing **B.sc in Data Science and Programming , IIT Madras** <br>
+- 👨‍🏭 I’m currently pursuing **B.sc in Data Science and Programming , IIT Madras and B.tech - M.tech in Computer Science and Cyber Security, NFSU Delhi** <br>
 - 🏫 I’m currently learning **Problem Solving , Java , Python** <br>
 - 🙌 I’m looking to collaborate on **Cloud - Native** <br>
 - 🤔 I’m looking for help with **Kubernetes and CP**<br>
