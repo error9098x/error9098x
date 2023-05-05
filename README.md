@@ -12,7 +12,7 @@
 - 🏫 I’m currently learning **Problem Solving , Java , Python** <br>
 - 🙌 I’m looking to collaborate on **Cloud - Native** <br>
 - 🤔 I’m looking for help with **Kubernetes and CP**<br>
-- 🥅 2021 Goals: **Contribute to open-source and connect with people** <br>
+- 🥅 2023 Goals: **Contribute to open-source and connect with people** <br>
 
 
 🕵 Take a look at my repositories and let's get in touch!<br>
