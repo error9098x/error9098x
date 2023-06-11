@@ -3,8 +3,8 @@
 
 # Hi ,I Am Pro Codec! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px"> <br> <br>
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=error9098x&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-![](https://komarev.com/ghpvc/?username=error9098x&color=blue)<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=error9098x" alt="error9098x" /></a> </p>
+
 
 <h3>### A budding programmer trying to step into open-source world and solve world problems </h3><br>
 
