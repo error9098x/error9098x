@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=error9098x" alt="error9098x" /></a> </p>
 
 
-<h3>### A budding programmer trying to step into open-source world and solve world problems </h3><br>
+<h3> A budding programmer trying to step into open-source world and solve world problems </h3><br>
 
 - 👨‍🏭 I’m currently pursuing **B.sc in Data Science and Programming , IIT Madras and B.tech - M.tech in Computer Science and Cyber Security, NFSU Delhi** <br>
 - 🏫 I’m currently learning **Problem Solving , Java , Python** <br>
