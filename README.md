@@ -1,9 +1,9 @@
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://raw.githubusercontent.com/error9098x/error9098x/main/assets/header-dark-mobile.svg">
-  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="https://raw.githubusercontent.com/error9098x/error9098x/main/assets/header-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/error9098x/error9098x/main/assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/error9098x/error9098x/main/assets/header-light.svg">
-  <img alt="ProCodec — Software, with intent. AI / Security / Developer tools." src="https://raw.githubusercontent.com/error9098x/error9098x/main/assets/header-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/header-dark-mobile.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/header-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img alt="ProCodec — Software, with intent. AI / Security / Developer tools." src="./assets/header-light.svg" width="100%">
 </picture>
 
 <br>
@@ -15,31 +15,49 @@ Good engineering, to me, means clear interfaces, careful trade-offs, and code th
 ### Languages
 
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://skillicons.dev/icons?i=py,ts,js,html,css,java,c,cs,php&amp;theme=dark&amp;perline=5">
-  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="https://skillicons.dev/icons?i=py,ts,js,html,css,java,c,cs,php&amp;theme=light&amp;perline=5">
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,js,html,css,java,c,cs,php&amp;theme=dark&amp;perline=9">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,java,c,cs,php&amp;theme=light&amp;perline=9" alt="Python, TypeScript, JavaScript, HTML, CSS, Java, C, C#, and PHP">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/languages-dark.svg">
+  <img src="./assets/tech/languages-light.svg" alt="Python, TypeScript, JavaScript, HTML, CSS, Kotlin, Java, C, C++, C#, PHP, and Bash">
 </picture>
-
-<sub>Python · TypeScript · JavaScript · HTML · CSS · Java · C · C# · PHP</sub>
 
 ### Tools & platforms
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,nodejs,flask,postgres&amp;theme=dark">
-  <img src="https://skillicons.dev/icons?i=git,nodejs,flask,postgres&amp;theme=light" alt="Git, Node.js, Flask, and PostgreSQL">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/tools-dark.svg">
+  <img src="./assets/tech/tools-light.svg" alt="Git, Node.js, Flask, and PostgreSQL">
 </picture>
 
-<sub>Git · Node.js · Flask · PostgreSQL</sub>
+### Selected projects
 
-### Selected work
+#### [FlagArena](https://github.com/error9098x/FlagArena)
 
-| Project | What it's about |
-| :--- | :--- |
-| **[FlagArena](https://github.com/error9098x/FlagArena)** | A self-hosted CTF platform for challenges, practice, and security events. |
-| **[Patchy](https://github.com/error9098x/Patchy)** | AI-assisted security scanning and patch generation for GitHub repositories. |
-| **[OP-AgentBench](https://github.com/error9098x/op-agentbench)** | An Open Payments reference agent and early work on payment-agent safety evaluation. |
+<a href="https://github.com/error9098x/FlagArena">
+  <img src="./assets/projects/flagarena.svg" alt="FlagArena logo" width="420">
+</a>
 
+A self-hosted CTF platform for security communities. Create challenges, run events, and keep practice progress separate from competition results.
+
+#### [Patchy](https://github.com/error9098x/Patchy)
+
+<a href="https://github.com/error9098x/Patchy">
+  <img src="./assets/projects/patchy.png" alt="Patchy repository dashboard showing security scans and connected projects" width="512">
+</a>
+
+An AI-assisted security bot that scans GitHub repositories, proposes fixes, and creates pull requests for review.
+
+#### [Metrolist Lite](https://github.com/error9098x/metrolist-lite)
+
+<a href="https://github.com/error9098x/metrolist-lite">
+  <img src="./assets/projects/metrolist.png" alt="Metrolist Lite desktop app showing the music library, search, downloads, and playback controls" width="820">
+</a>
+
+My macOS desktop fork of Metrolist, with YouTube Music playback, synced lyrics, and offline downloads.
+
+### Contribution activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-snake-dark.svg">
+  <img src="./assets/contribution-snake.svg" alt="Animated snake moving through my GitHub contribution graph" width="100%">
+</picture>
 
 ### Languages in my public repositories
 
@@ -50,4 +68,4 @@ Good engineering, to me, means clear interfaces, careful trade-offs, and code th
 
 <br>
 
-[Explore repositories](https://github.com/error9098x?tab=repositories) &nbsp;·&nbsp; [Recent activity](https://github.com/error9098x?tab=overview)
+[Explore all repositories](https://github.com/error9098x?tab=repositories)
